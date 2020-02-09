@@ -1,4 +1,4 @@
-#nodemon-json-server
+# nodemon-json-server
 
 Simple implementation of a json-server (https://github.com/typicode/json-server) using multiple js files to build a fake api.
 An approach to easily allow watching changes on js files containing the api data. 
