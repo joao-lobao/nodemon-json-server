@@ -12,17 +12,9 @@ Install nodemon globally so you can watch js files `npm install -g nodemon`
 Run the server `nodemon server.js`
 
 Check the terminal logs to see what resources you can access.
-`ex:
 
-JSON Server is running
+ex:
 
-Resources:
-
-http://localhost:3000/posts
-
-http://localhost:3000/profile
-
-http://localhost:3000/comments
-`
+![GitHub Logo](/log.png)
 
 Server is now watching every change you make on your api files.
