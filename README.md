@@ -13,10 +13,15 @@ Run the server `nodemon server.js`
 
 Check the terminal logs to see what resources you can access.
 `ex:
+
 JSON Server is running
+
 Resources:
+
 http://localhost:3000/posts
+
 http://localhost:3000/profile
+
 http://localhost:3000/comments
 `
 
